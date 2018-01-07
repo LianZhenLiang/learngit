@@ -1,3 +1,2 @@
-git is free software
-as
-123
+git is a distributed version control system;
+git is free sortware distributed under the GPL;
