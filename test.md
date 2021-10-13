@@ -6,4 +6,4 @@ creating a new branch is quick And simple
 recover branchgit bug
 multu branch dev push confilct
 
-![github.com/LianZhenLiang/learngit/image/Image 8.png](github.com/LianZhenLiang/learngit/image/Image 8.png)
+![test](https://github.com/LianZhenLiang/learngit/blob/dev/image/Image%208.png?raw=true)
